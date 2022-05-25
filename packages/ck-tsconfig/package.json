@@ -1,6 +1,6 @@
 {
-  "name": "@chks/tsconfig",
-  "version": "0.0.0",
+  "name": "@chainkemists/tsconfig",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "files": [

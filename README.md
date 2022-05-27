@@ -1,4 +1,5 @@
 # Chainkemists Style Guide
+The Chainkemists style guide and shared configuration repository. 
 
 - [Prettier](#prettier)
 - [ESLint](#eslint)
@@ -60,3 +61,6 @@ The following optional configs are available:
 ## Solidity
 
 ...
+
+## Credits
+Inspired by [Vercel's Style Guide](https://github.com/vercel/style-guide).

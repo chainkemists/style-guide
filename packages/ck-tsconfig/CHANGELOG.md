@@ -1,5 +1,11 @@
 # @chainkemists/tsconfig
 
+## 0.0.4
+
+### Patch Changes
+
+- Fixed dom setting in react-library tsconfig
+
 ## 0.0.3
 
 ### Patch Changes

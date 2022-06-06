@@ -15,7 +15,7 @@ module.exports = {
   ...overridableDefaults,
   singleQuote: true,
   semi: false,
-  trailingComma: 'all',
+  trailingComma: 'none',
   arrowParens: 'always',
   bracketSpacing: true,
 }

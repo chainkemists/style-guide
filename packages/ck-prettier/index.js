@@ -5,7 +5,7 @@
  * See: https://github.com/prettier/prettier/blob/main/docs/configuration.md#editorconfig
  */
 const overridableDefaults = {
-  endOfLine: 'lf',
+  endOfLine: "lf",
   tabWidth: 2,
   printWidth: 80,
   useTabs: false,
@@ -15,8 +15,8 @@ module.exports = {
   ...overridableDefaults,
   singleQuote: false,
   semi: false,
-  trailingComma: 'es5',
-  jsxBracketSameLine: false,
-  arrowParens: 'always',
+  trailingComma: "es5",
+  bracketSameLine: true,
+  arrowParens: "always",
   bracketSpacing: true,
 }

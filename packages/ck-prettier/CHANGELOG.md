@@ -1,5 +1,11 @@
 # @chainkemists/prettier
 
+## 0.0.5
+
+### Patch Changes
+
+- ea988d5: Update prettier style
+
 ## 0.0.4
 
 ### Patch Changes

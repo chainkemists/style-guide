@@ -19,16 +19,16 @@
     "release": "turbo run build --filter=./packages && changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.22.0",
     "@chainkemists/eslint-config": "*",
     "@chainkemists/prettier": "*",
+    "@changesets/cli": "^2.22.0",
     "eslint": "^8.15.0",
-    "prettier": "^2.6.1",
+    "prettier": "^2.8.8",
     "turbo": "latest"
   },
   "peerDependencies": {
     "eslint": "^8.15.0",
-    "prettier": "^2.6.1"
+    "prettier": "^2.8.8"
   },
   "prettier": "@chainkemists/prettier"
 }

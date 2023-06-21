@@ -1,5 +1,6 @@
 # Chainkemists Style Guide
-The Chainkemists style guide and shared configuration repository. 
+
+The Chainkemists style guide and shared configuration repository.
 
 - [Prettier](#prettier)
 - [ESLint](#eslint)
@@ -36,7 +37,7 @@ To use the the shared ESLint config, set the following in `.eslintrc.js`.
 
 ```js
 module.exports = {
-  extends: [require.resolve('@chainkemists/eslint-config')],
+  extends: [require.resolve("@chainkemists/eslint-config")],
 }
 ```
 
@@ -63,4 +64,5 @@ The following optional configs are available:
 ...
 
 ## Credits
+
 Inspired by [Vercel's Style Guide](https://github.com/vercel/style-guide).

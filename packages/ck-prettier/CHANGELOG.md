@@ -1,5 +1,11 @@
 # @chainkemists/prettier
 
+## 0.0.6
+
+### Patch Changes
+
+- a94357d: Update prettier deps
+
 ## 0.0.5
 
 ### Patch Changes

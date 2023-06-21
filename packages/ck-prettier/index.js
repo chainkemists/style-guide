@@ -13,9 +13,10 @@ const overridableDefaults = {
 
 module.exports = {
   ...overridableDefaults,
-  singleQuote: true,
+  singleQuote: false,
   semi: false,
-  trailingComma: 'none',
+  trailingComma: 'es5',
+  jsxBracketSameLine: false,
   arrowParens: 'always',
   bracketSpacing: true,
 }
